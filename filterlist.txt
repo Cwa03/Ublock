@@ -8,7 +8,7 @@ www.kleinanzeigen.de##li.ad-listitem:has-text(/paypal/)
 www.kleinanzeigen.de##li.ad-listitem:has-text(/überweisung/)
 www.kleinanzeigen.de##li.ad-listitem:has-text(/100%/)
 www.kleinanzeigen.de##li.ad-listitem:has-text(/tausch/)
-
+www.kleinanzeigen.de##li.ad-listitem:has-text(/PRO/)
 ! 25.08.2025 https://www.kleinanzeigen.de
 www.kleinanzeigen.de##li.is-feature-topad
 www.kleinanzeigen.de##li.is-feature-highlight
