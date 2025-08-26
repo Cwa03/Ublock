@@ -1,14 +1,14 @@
 ! 24.08.2025 https://www.kleinanzeigen.de
 www.kleinanzeigen.de##.is-topad
 www.kleinanzeigen.de##.is-highlight
-www.kleinanzeigen.de##li.ad-listitem:has-text(/Suche/)
-www.kleinanzeigen.de##li.ad-listitem:has-text(/SUCHE/)
-www.kleinanzeigen.de##li.ad-listitem:has-text(/Tausch/)
-www.kleinanzeigen.de##li.ad-listitem:has-text(/paypal/)
-www.kleinanzeigen.de##li.ad-listitem:has-text(/überweisung/)
-www.kleinanzeigen.de##li.ad-listitem:has-text(/100%/)
-www.kleinanzeigen.de##li.ad-listitem:has-text(/tausch/)
+www.kleinanzeigen.de##.ad-listitem:has-text(/Suche/)
+www.kleinanzeigen.de##.ad-listitem:has-text(/SUCHE/)
+www.kleinanzeigen.de##.ad-listitem:has-text(/Tausch/)
+www.kleinanzeigen.de##.ad-listitem:has-text(/paypal/)
+www.kleinanzeigen.de##.ad-listitem:has-text(/überweisung/)
+www.kleinanzeigen.de##.ad-listitem:has-text(/100%/)
+www.kleinanzeigen.de##.ad-listitem:has-text(/tausch/)
 
 ! 25.08.2025 https://www.kleinanzeigen.de
-www.kleinanzeigen.de##li.is-feature-topad
+www.kleinanzeigen.de##.is-feature-topad
 www.kleinanzeigen.de##.is-feature-highlight
