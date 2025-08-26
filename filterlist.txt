@@ -10,5 +10,5 @@ www.kleinanzeigen.de##li.ad-listitem:has-text(/100%/)
 www.kleinanzeigen.de##li.ad-listitem:has-text(/tausch/)
 
 ! 25.08.2025 https://www.kleinanzeigen.de
-www.kleinanzeigen.de##.is-feature-topad
-www.kleinanzeigen.de##.is-feature-highlight
+www.kleinanzeigen.de##li.is-feature-topad
+www.kleinanzeigen.de##li.is-feature-highlight
