@@ -428,3 +428,4 @@ www.google.com##div.cvP2Ce:has-text(/Musk/)
 www.google.com##div.cvP2Ce:has-text(/Krieg/)
 www.google.com##div.cvP2Ce:has-text(/USA/)
 www.google.com##div.cvP2Ce:has-text(/Amerika/)
+www.google.com##.lEorAf
