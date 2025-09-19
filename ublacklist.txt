@@ -1,3 +1,4 @@
+www.google.com##.cvP2Ce:has-text(news.google.de)
 www.google.com##div > [data-dsrp]:has-text(youtube.com)
 www.google.com##div > [data-dsrp]:has-text(bild.de)
 www.google.com##div > [data-dsrp]:has-text(spiegel.de)
