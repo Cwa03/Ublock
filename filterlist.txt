@@ -13,8 +13,8 @@ www.kleinanzeigen.de##li.ad-listitem:has-text(/PRO/)
 www.kleinanzeigen.de##li.is-feature-topad
 www.kleinanzeigen.de##li.is-feature-highlight
 www.google.com##div.cvP2Ce:has-text(/youtube.com/)
-www.google.com##div.cvP2Ce:has-text(/bild.de/)
-www.google.com##div.cvP2Ce:has-text(/spiegel.de/)
+||google.com##div.cvP2Ce:has-text(/bild.de/)
+google.com##div.cvP2Ce:has-text(/spiegel.de/)
 www.google.com##div.cvP2Ce:has-text(/focus.de/)
 www.google.com##div.cvP2Ce:has-text(/welt.de/)
 www.google.com##div.cvP2Ce:has-text(/t-online.de/)
