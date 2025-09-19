@@ -1,4 +1,4 @@
-!www.google.com 19.09.25 !
+!www.google.com 19.09.25 
 www.google.com##.cvP2Ce:has-text(/youtube.com/)
 www.google.com##.cvP2Ce:has-text(/bild.de/)
 www.google.com##.cvP2Ce:has-text(/spiegel.de/)
